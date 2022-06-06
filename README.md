@@ -8,4 +8,4 @@ Neha Mishra§, Konrad Aden, Johanna I. Blase, Nathan Baran, Dora Bordoni, Floria
 
 ** Lead Contact Philip Rosenstiel, p.rosenstiel@mucosa.de
 
-§ Lead Contact for codes Neha Mishra
+§ Lead Contact for codes Neha Mishra, n.mishra@ikmb.uni-kiel.de
