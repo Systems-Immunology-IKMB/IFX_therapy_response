@@ -1,4 +1,4 @@
-# IFX therapy response code
+# Infliximab therapy response code
 
 R-based codes for :
 
